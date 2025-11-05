@@ -52,7 +52,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 | Category | Tools / Skills |
 |----------|----------------|
-| Machine Learning / AI | Computer Vision, Text Mining, Deep Learning |
+| Machine Learning / AI | Computer Vision, Text Mining, Deep Learning, Prescriptive Analytic|
 | Programming | Python (data pipelines & model development), SQL |
 | Visualization | Power BI |
 | Deployment | FastAPI / Streamlit |
