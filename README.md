@@ -60,7 +60,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 ---
 
 ## 📄 CV
-🔗 **[Download CV](./assets/CV_KevinPratamaIndrajaya.pdf)**  
+🔗 **[Download CV](./assets/img/CV_KevinPratamaIndrajaya.pdf)**  
 🔗 **[View GitHub Profile](https://github.com/Kiipiiin)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/kevin-pratama-indrajaya/)**  
 
