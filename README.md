@@ -15,11 +15,6 @@ I enjoy solving real-world problems using data and building models that deliver 
 - Deploy ML models to simple web apps using **FastAPI / Streamlit**  
 - Translate business problems into measurable analytical solutions
 
-- Build end-to-end machine learning and deep learning projects  
-- Extract insights from data (descriptive → predictive → decision making)  
-- Deploy ML models to simple web apps using **FastAPI / Streamlit**  
-- Translate business problems into measurable analytical solutions
-
 ---
 
 ##  Featured Projects
