@@ -33,15 +33,15 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ---
 
-### Crowd Counting – Hology Competition
-- CNN model trained on **imbalanced dataset** (mostly sparse crowds)
-- Achieved ~29 average prediction error on 2K+ images
-
----
-
 ### Power BI Sales & Customer Analytics Dashboard – Business Insights Project
 - Developed an **interactive Power BI dashboard** analyzing **48K transaction records**
 - Delivered insights on **sales trends, customer behavior, and product performance** using **clean visuals and storytelling-driven design**
+- 
+---
+
+### Crowd Counting – Hology Competition
+- CNN model trained on **imbalanced dataset** (mostly sparse crowds)
+- Achieved ~29 average prediction error on 2K+ images
 
 ---
 
