@@ -19,15 +19,17 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ##  Featured Projects
 
-### BBCA Stock Price Analytics & Forecasting
-- Performed descriptive analysis on 10+ years of BBCA historical price data
-- Built GRU forecasting model → **92% explained variance**
+### Loan Data Analysis – Onyx DataDNA Challenge
+- Built a **Power BI dashboard** for loan risk segmentation and **30K+ customer clustering**
+- Estimated default probabilities using **ML**
+- Implemented **Bayesian prescriptive analytics (Thompson Sampling)** to test multiple strategies and select the optimal action for each segment
 
 ---
 
-### Loan Risk Segmentation – Onyx DataDNA
-- Power BI dashboard for 30K+ customers
-- Applied **Bayesian prescriptive analytics (Thompson Sampling)** to recommend strategy
+### Shopee Negative Reviews Analysis – Text Mining Project
+- Analyzed **30K+ app reviews** to discover 3 major complaint clusters (**Shipping, UX/Features, Technical Performance**)
+- **Predicted sentiment**, tracked **topic trends across app versions**, and detected **topic drift**
+- Uncovered **persistent user pain points and spikes in issues**
 
 ---
 
@@ -37,9 +39,9 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ---
 
-### Cultural Image Classification – Logika UI
-- Deep learning classification on **limited & imbalanced dataset**
-- ~80% overall performance
+### Power BI Sales & Customer Analytics Dashboard – Business Insights Project
+- Developed an **interactive Power BI dashboard** analyzing **48K transaction records**
+- Delivered insights on **sales trends, customer behavior, and product performance** using **clean visuals and storytelling-driven design**
 
 ---
 
