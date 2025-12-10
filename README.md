@@ -25,7 +25,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ---
 
-### Shopee Negative Reviews Analysis – Text Mining Project
+### Shopee Negative Reviews Topic Modelling – Text Mining Project
 - Analyzed 30K+ Shopee reviews and identified three stable complaint themes, with UX issues as the fastest-growing across versions 3.40–3.62.
 - Tracked topic trends and spikes (versions 3.59–3.61) and confirmed topic stability over time, helping prioritize UX improvements over operational issues.
 
