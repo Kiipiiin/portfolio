@@ -33,6 +33,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ### Power BI Sales & Customer Analytics Dashboard – Business Insights Project
  - Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website, and country-level refund anomalies (Brazil’s high refund rate).
+ - tes
 ---
 
 ### Crowd Counting – Hology Competition
