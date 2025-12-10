@@ -21,7 +21,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ### Loan Data Analysis – Default Risk Modeling & Segmentation
 - Modeled default probabilities for 30K+ borrowers and segmented them into two risk profiles; product-driven defaults and condition-driven defaults. Showing that default risk stems from different structural factors.
-- Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website, and country-level refund anomalies (Brazil’s high refund rate).
+- Ran an exploratory Thompson Sampling simulation for medium-risk borrowers, suggesting potential default reductions of ~12% (product-risk) and ~21% (condition-risk) under assumed treatment effects.
 
 ---
 
