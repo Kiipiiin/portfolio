@@ -37,8 +37,8 @@ I enjoy solving real-world problems using data and building models that deliver 
 ---
 
 ### Crowd Counting – Hology Competition
-- Built a CSRNet-based crowd counting model with a patch-based pipeline to handle sparse–dense imbalance and improve learning in dense scenes.
-- Achieved MAE 29 on 190 test images, with the CSRNet-Lite variant performing best on densely populated images.
+- Built a deep learning model for crowd counting using a density map training approach to handle uneven crowd density across images.
+- Reached a MAE of 29 on 190 test images, with the pretrain model variant performing best on highly crowded scenes.
 
 ---
 
