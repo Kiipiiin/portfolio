@@ -20,28 +20,24 @@ I enjoy solving real-world problems using data and building models that deliver 
 ##  Featured Projects
 
 ### Loan Data Analysis – Onyx DataDNA Challenge
-- Built a **Power BI dashboard** for loan risk segmentation and **30K+ customer clustering**
-- Estimated default probabilities using **ML**
-- Implemented **Bayesian prescriptive analytics (Thompson Sampling)** to test multiple strategies and select the optimal action for each segment
+- Modeled default probabilities for 30K+ borrowers and segmented them into two risk profiles; product-driven defaults and condition-driven defaults. Showing that default risk stems from different structural factors.
+- Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website (~10M), and country-level refund anomalies (Brazil’s high refund rate).
 
 ---
 
 ### Shopee Negative Reviews Analysis – Text Mining Project
-- Analyzed **30K+ app reviews** to discover 3 major complaint clusters (**Shipping, UX/Features, Technical Performance**)
-- **Predicted sentiment**, tracked **topic trends across app versions**, and detected **topic drift**
-- Uncovered **persistent user pain points and spikes in issues**
+- Analyzed 30K+ Shopee reviews and identified three stable complaint themes, with UX issues as the fastest-growing across versions 3.40–3.62.
+- Tracked topic trends and spikes (versions 3.59–3.61) and confirmed topic stability over time, helping prioritize UX improvements over operational issues
 
 ---
 
 ### Power BI Sales & Customer Analytics Dashboard – Business Insights Project
-- Developed an **interactive Power BI dashboard** analyzing **48K transaction records**
-- Delivered insights on **sales trends, customer behavior, and product performance** using **clean visuals and storytelling-driven design**
-- 
+ - Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website (~10M), and country-level refund anomalies (Brazil’s high refund rate)
 ---
 
 ### Crowd Counting – Hology Competition
-- CNN model trained on **imbalanced dataset** (mostly sparse crowds)
-- Achieved ~29 average prediction error on 2K+ images
+- Built a CSRNet-based crowd counting model with a patch-based pipeline to handle sparse–dense imbalance and improve learning in dense scenes.
+- Achieved MAE 29 on 190 test images, with the CSRNet-Lite variant performing best on densely populated images.
 
 ---
 
