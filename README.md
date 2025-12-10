@@ -27,12 +27,12 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ### Shopee Negative Reviews Analysis – Text Mining Project
 - Analyzed 30K+ Shopee reviews and identified three stable complaint themes, with UX issues as the fastest-growing across versions 3.40–3.62.
-- Tracked topic trends and spikes (versions 3.59–3.61) and confirmed topic stability over time, helping prioritize UX improvements over operational issues
+- Tracked topic trends and spikes (versions 3.59–3.61) and confirmed topic stability over time, helping prioritize UX improvements over operational issues.
 
 ---
 
 ### Power BI Sales & Customer Analytics Dashboard – Business Insights Project
- - Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website, and country-level refund anomalies (Brazil’s high refund rate)
+ - Analyzed 48K e-commerce transactions and uncovered concrete patterns, including a post-April revenue breakout, channel dominance by Website, and country-level refund anomalies (Brazil’s high refund rate).
 ---
 
 ### Crowd Counting – Hology Competition
