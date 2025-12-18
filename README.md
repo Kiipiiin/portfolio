@@ -36,7 +36,7 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 ---
 
-### Crowd Counting – Hology Competition
+### Crowd Counting – Computer Vision Project
 - Built a deep learning model for crowd counting using a density map training approach to handle uneven crowd density across images.
 - Reached a MAE of 29 on 190 test images, with the pretrain model variant performing best on highly crowded scenes.
 
