@@ -1,19 +1,13 @@
 # Kevin Pratama Indrajaya
 
-### Data Science | Machine Learning | Deep Learning
+### Data Science | Full-Stack Engineer Intern
 
-Hi! I'm Kevin — a Data Science undergraduate at BINUS University.  
-I specialize in **machine learning, deep learning, and data analytics**.  
-I enjoy solving real-world problems using data and building models that deliver impact, not only accuracy.
-
----
-
-## What I Do
-
-- Build end-to-end machine learning and deep learning projects  
-- Extract insights from data (descriptive → predictive → decision making)  
-- Deploy ML models to simple web apps using **FastAPI / Streamlit**  
-- Translate business problems into measurable analytical solutions
+FI Barbershop | Full-Stack Engineer Intern (Feb 2026 - Present)
+- Developed a full-stack member loyalty and transaction ecosystem from scratch for 99 active outlets, currently in the final pre-production stage for a May soft launch.
+- Built a scalable API and Supabase backend, featuring a resource-efficient automated polling system that syncs transaction data from the Moka POS.
+- Applied security measures including  Google Oauth, WhatsApp OTP authentication, JWT-based sessions, and database access control (RLS & audit logs).
+- Designed the system architecture to handle dynamic scaling, ensuring automated routing and zero downtime during the addition or removal of new outlet branches.
+- Implemented RFM-based customer segmentation to support targeted voucher campaigns for loyalty members.
 
 ---
 
@@ -46,10 +40,11 @@ I enjoy solving real-world problems using data and building models that deliver 
 
 | Category | Tools / Skills |
 |----------|----------------|
-| Machine Learning / AI | Computer Vision, Text Mining, Deep Learning, Prescriptive Analytic|
+| Machine Learning / AI | Machine Learning, Text Mining, Deep Learning, JavaScript, HTML/CSS, PostgreSQL (Supabase) |
 | Programming | Python (data pipelines & model development), SQL |
 | Visualization | Power BI |
-| Deployment | FastAPI / Streamlit |
+| Deployment | FastAPI / Streamlit, Git/Github|
+
 
 ---
 
