@@ -42,7 +42,7 @@ FI Barbershop | Full-Stack Engineer Intern (Feb 2026 - Present)
 |----------|----------------|
 | Machine Learning / AI | Machine Learning, Text Mining, Deep Learning, JavaScript, HTML/CSS, PostgreSQL (Supabase) |
 | Programming | Python (data pipelines & model development), SQL |
-| Visualization | Power BI |
+| Visualization | Power BI, Figma |
 | Deployment | FastAPI / Streamlit, Git/Github|
 
 
