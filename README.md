@@ -1,8 +1,8 @@
 # Kevin Pratama Indrajaya
 
-### Data Science | Full-Stack Engineer Intern
+### Data Science | Full-Stack & Data Engineer Intern
 
-FI Barbershop | Full-Stack Engineer Intern (Feb 2026 - Present)
+FI Barbershop | Full-Stack & Data Engineer Intern (Feb 2026 - Present)
 - Developed a full-stack member loyalty and transaction ecosystem from scratch for 99 active outlets, currently in the final pre-production stage for a May soft launch.
 - Built a scalable API and Supabase backend, featuring a resource-efficient automated polling system that syncs transaction data from the Moka POS.
 - Applied security measures including  Google Oauth, WhatsApp OTP authentication, JWT-based sessions, and database access control (RLS & audit logs).
