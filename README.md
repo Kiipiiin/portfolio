@@ -48,8 +48,6 @@ FI Barbershop | Full-Stack & Data Engineer Intern (Feb 2026 - Present)
 
 ---
 
-## 📄 CV
-🔗 **[Download CV](./assets/img/CV_KevinPratamaIndrajaya.pdf)**  
 🔗 **[View GitHub Profile](https://github.com/Kiipiiin)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/kevin-pratama-indrajaya/)**  
 
