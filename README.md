@@ -6,7 +6,7 @@ Application Developer Intern at BCA (Wealth & Treasury) who designs and delivers
 
 📍 Jakarta, Indonesia · 📧 kevinkpi012@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-pratama-indrajaya/) · 🔗 [GitHub](https://github.com/Kiipiiin)
 
-<!-- Download CV: upload the latest CV PDF as assets/img/CV_KevinPratamaIndrajaya.pdf (same file name), then remove these comment markers.
+<!-- To show the Download CV button: replace assets/img/CV_KevinPratamaIndrajaya.pdf with the latest CV (keep the same file name), then delete this line and the closing marker below.
 📄 **[Download CV (PDF)](assets/img/CV_KevinPratamaIndrajaya.pdf)**
 -->
 
