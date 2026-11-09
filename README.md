@@ -76,7 +76,7 @@ Application Developer Intern at BCA (Wealth & Treasury) who designs and delivers
 
 ## Education & Certifications
 
-**Universitas Bina Nusantara (BINUS)** – Data Science · Aug 2023 – 2027 (expected) · GPA 3.44 / 4.00
+**Universitas Bina Nusantara (BINUS)** – Data Science · Aug 2023 – 2027 (expected)
 
 - **Certifications:** Data Classification Using IBM Granite (IBM); Deep Learning A-Z and Business Data Science (Udemy); Practical Machine Learning (Digital Talent Scholarship)
 - **Languages:** Indonesian (native); English (TOEFL ITP 623/677, professional working proficiency); Mandarin Chinese (HSK 2)
